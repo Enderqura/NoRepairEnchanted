@@ -1,0 +1,3 @@
+name: NoRepairEnchanted
+version: ${project.version}
+main: com.enderaura.norepairenchanted.NoRepairEnchanted
